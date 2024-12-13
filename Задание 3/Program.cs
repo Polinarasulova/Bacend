@@ -11,7 +11,7 @@ namespace Задание_3
             Console.WriteLine("2. Угадай число");
             Console.Write("Введите номер: ");
             
-            string? choice = Console.ReadLine(); // Используем ? для обработки возможного null
+            string? choice = Console.ReadLine(); 
 
             if (choice == "1")
             {
