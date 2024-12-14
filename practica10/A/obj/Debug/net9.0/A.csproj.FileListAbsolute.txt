@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\practica10\A\bin\Debug\net9.0\A.exe
+C:\Users\User\Desktop\practica10\A\bin\Debug\net9.0\A.deps.json
+C:\Users\User\Desktop\practica10\A\bin\Debug\net9.0\A.runtimeconfig.json
+C:\Users\User\Desktop\practica10\A\bin\Debug\net9.0\A.dll
+C:\Users\User\Desktop\practica10\A\bin\Debug\net9.0\A.pdb
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.AssemblyInfo.cs
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.sourcelink.json
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.dll
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\refint\A.dll
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.pdb
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\A.genruntimeconfig.cache
+C:\Users\User\Desktop\practica10\A\obj\Debug\net9.0\ref\A.dll

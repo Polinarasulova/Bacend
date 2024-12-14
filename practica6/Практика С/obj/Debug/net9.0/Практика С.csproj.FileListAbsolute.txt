@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\practica6\Практика С\bin\Debug\net9.0\Практика С.exe
+C:\Users\User\Desktop\practica6\Практика С\bin\Debug\net9.0\Практика С.deps.json
+C:\Users\User\Desktop\practica6\Практика С\bin\Debug\net9.0\Практика С.runtimeconfig.json
+C:\Users\User\Desktop\practica6\Практика С\bin\Debug\net9.0\Практика С.dll
+C:\Users\User\Desktop\practica6\Практика С\bin\Debug\net9.0\Практика С.pdb
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.AssemblyInfo.cs
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.sourcelink.json
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.dll
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\refint\Практика С.dll
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.pdb
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\Практика С.genruntimeconfig.cache
+C:\Users\User\Desktop\practica6\Практика С\obj\Debug\net9.0\ref\Практика С.dll
