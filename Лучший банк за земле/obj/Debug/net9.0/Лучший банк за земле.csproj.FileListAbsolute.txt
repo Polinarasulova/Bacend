@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Лучший банк за земле\bin\Debug\net9.0\Лучший банк за земле.exe
+C:\Users\User\Desktop\Лучший банк за земле\bin\Debug\net9.0\Лучший банк за земле.deps.json
+C:\Users\User\Desktop\Лучший банк за земле\bin\Debug\net9.0\Лучший банк за земле.runtimeconfig.json
+C:\Users\User\Desktop\Лучший банк за земле\bin\Debug\net9.0\Лучший банк за земле.dll
+C:\Users\User\Desktop\Лучший банк за земле\bin\Debug\net9.0\Лучший банк за земле.pdb
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.AssemblyInfo.cs
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.sourcelink.json
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.dll
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\refint\Лучший банк за земле.dll
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.pdb
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\Лучший банк за земле.genruntimeconfig.cache
+C:\Users\User\Desktop\Лучший банк за земле\obj\Debug\net9.0\ref\Лучший банк за земле.dll

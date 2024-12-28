@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Лучший банк за земле/1.0.0": {
+        "runtime": {
+          "Лучший банк за земле.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Лучший банк за земле/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

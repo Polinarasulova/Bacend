@@ -19,15 +19,14 @@ class Program
             {
                 if (numbers[i] < min)
                 {
-                    min = numbers[i]; //минимальное значение
-                }
+                    min = numbers[i]; 
                 if (numbers[i] > max)
                 {
-                    max = numbers[i]; //максимальное значение
+                    max = numbers[i]; 
                 }
             }
             
-            Console.WriteLine($"Минимальное значение: {min}");
-            Console.WriteLine($"Максимальное значение: {max}");
+            Console.WriteLine({min});
+            Console.WriteLine({max});
     }
 }

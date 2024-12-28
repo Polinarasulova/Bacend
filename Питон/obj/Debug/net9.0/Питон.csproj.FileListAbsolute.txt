@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Питон\bin\Debug\net9.0\Питон.exe
+C:\Users\User\Desktop\Питон\bin\Debug\net9.0\Питон.deps.json
+C:\Users\User\Desktop\Питон\bin\Debug\net9.0\Питон.runtimeconfig.json
+C:\Users\User\Desktop\Питон\bin\Debug\net9.0\Питон.dll
+C:\Users\User\Desktop\Питон\bin\Debug\net9.0\Питон.pdb
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.AssemblyInfo.cs
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.sourcelink.json
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.dll
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\refint\Питон.dll
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.pdb
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\Питон.genruntimeconfig.cache
+C:\Users\User\Desktop\Питон\obj\Debug\net9.0\ref\Питон.dll
