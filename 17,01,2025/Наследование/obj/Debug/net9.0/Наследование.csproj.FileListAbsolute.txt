@@ -1,0 +1,15 @@
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.AssemblyInfoInputs.cache
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.AssemblyInfo.cs
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.sourcelink.json
+D:\Public\MyProjects\17,01,2025\Наследование\bin\Debug\net9.0\Наследование.exe
+D:\Public\MyProjects\17,01,2025\Наследование\bin\Debug\net9.0\Наследование.deps.json
+D:\Public\MyProjects\17,01,2025\Наследование\bin\Debug\net9.0\Наследование.runtimeconfig.json
+D:\Public\MyProjects\17,01,2025\Наследование\bin\Debug\net9.0\Наследование.dll
+D:\Public\MyProjects\17,01,2025\Наследование\bin\Debug\net9.0\Наследование.pdb
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.dll
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\refint\Наследование.dll
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.pdb
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\Наследование.genruntimeconfig.cache
+D:\Public\MyProjects\17,01,2025\Наследование\obj\Debug\net9.0\ref\Наследование.dll

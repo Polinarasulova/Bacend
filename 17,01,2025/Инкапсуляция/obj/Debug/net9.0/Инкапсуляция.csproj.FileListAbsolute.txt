@@ -1,0 +1,15 @@
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.AssemblyInfoInputs.cache
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.AssemblyInfo.cs
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.sourcelink.json
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\bin\Debug\net9.0\Инкапсуляция.exe
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\bin\Debug\net9.0\Инкапсуляция.deps.json
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\bin\Debug\net9.0\Инкапсуляция.runtimeconfig.json
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\bin\Debug\net9.0\Инкапсуляция.dll
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\bin\Debug\net9.0\Инкапсуляция.pdb
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.dll
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\refint\Инкапсуляция.dll
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.pdb
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\Инкапсуляция.genruntimeconfig.cache
+D:\Public\MyProjects\17,01,2025\Инкапсуляция\obj\Debug\net9.0\ref\Инкапсуляция.dll

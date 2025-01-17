@@ -1,0 +1,15 @@
+D:\Public\MyProjects\17,01,2025\1practica\bin\Debug\net9.0\1practica.exe
+D:\Public\MyProjects\17,01,2025\1practica\bin\Debug\net9.0\1practica.deps.json
+D:\Public\MyProjects\17,01,2025\1practica\bin\Debug\net9.0\1practica.runtimeconfig.json
+D:\Public\MyProjects\17,01,2025\1practica\bin\Debug\net9.0\1practica.dll
+D:\Public\MyProjects\17,01,2025\1practica\bin\Debug\net9.0\1practica.pdb
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.AssemblyInfoInputs.cache
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.AssemblyInfo.cs
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.sourcelink.json
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.dll
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\refint\1practica.dll
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.pdb
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\1practica.genruntimeconfig.cache
+D:\Public\MyProjects\17,01,2025\1practica\obj\Debug\net9.0\ref\1practica.dll
