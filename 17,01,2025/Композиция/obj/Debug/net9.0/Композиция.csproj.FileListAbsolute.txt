@@ -1,0 +1,15 @@
+D:\Public\MyProjects\17,01,2025\Композиция\bin\Debug\net9.0\Композиция.exe
+D:\Public\MyProjects\17,01,2025\Композиция\bin\Debug\net9.0\Композиция.deps.json
+D:\Public\MyProjects\17,01,2025\Композиция\bin\Debug\net9.0\Композиция.runtimeconfig.json
+D:\Public\MyProjects\17,01,2025\Композиция\bin\Debug\net9.0\Композиция.dll
+D:\Public\MyProjects\17,01,2025\Композиция\bin\Debug\net9.0\Композиция.pdb
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.AssemblyInfoInputs.cache
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.AssemblyInfo.cs
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.sourcelink.json
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.dll
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\refint\Композиция.dll
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.pdb
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\Композиция.genruntimeconfig.cache
+D:\Public\MyProjects\17,01,2025\Композиция\obj\Debug\net9.0\ref\Композиция.dll

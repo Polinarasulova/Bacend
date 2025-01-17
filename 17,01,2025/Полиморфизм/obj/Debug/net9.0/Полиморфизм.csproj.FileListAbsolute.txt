@@ -1,0 +1,15 @@
+D:\Public\MyProjects\17,01,2025\Полиморфизм\bin\Debug\net9.0\Полиморфизм.exe
+D:\Public\MyProjects\17,01,2025\Полиморфизм\bin\Debug\net9.0\Полиморфизм.deps.json
+D:\Public\MyProjects\17,01,2025\Полиморфизм\bin\Debug\net9.0\Полиморфизм.runtimeconfig.json
+D:\Public\MyProjects\17,01,2025\Полиморфизм\bin\Debug\net9.0\Полиморфизм.dll
+D:\Public\MyProjects\17,01,2025\Полиморфизм\bin\Debug\net9.0\Полиморфизм.pdb
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.AssemblyInfoInputs.cache
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.AssemblyInfo.cs
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.sourcelink.json
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.dll
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\refint\Полиморфизм.dll
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.pdb
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\Полиморфизм.genruntimeconfig.cache
+D:\Public\MyProjects\17,01,2025\Полиморфизм\obj\Debug\net9.0\ref\Полиморфизм.dll
