@@ -1,0 +1,15 @@
+D:\Public\MyProjects\21.012025\1\bin\Debug\net9.0\1.exe
+D:\Public\MyProjects\21.012025\1\bin\Debug\net9.0\1.deps.json
+D:\Public\MyProjects\21.012025\1\bin\Debug\net9.0\1.runtimeconfig.json
+D:\Public\MyProjects\21.012025\1\bin\Debug\net9.0\1.dll
+D:\Public\MyProjects\21.012025\1\bin\Debug\net9.0\1.pdb
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.AssemblyInfoInputs.cache
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.AssemblyInfo.cs
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.sourcelink.json
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.dll
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\refint\1.dll
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.pdb
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\1.genruntimeconfig.cache
+D:\Public\MyProjects\21.012025\1\obj\Debug\net9.0\ref\1.dll
