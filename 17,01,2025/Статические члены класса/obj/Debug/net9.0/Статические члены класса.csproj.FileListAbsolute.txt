@@ -1,0 +1,15 @@
+D:\Public\MyProjects\17,01,2025\Статические члены класса\bin\Debug\net9.0\Статические члены класса.exe
+D:\Public\MyProjects\17,01,2025\Статические члены класса\bin\Debug\net9.0\Статические члены класса.deps.json
+D:\Public\MyProjects\17,01,2025\Статические члены класса\bin\Debug\net9.0\Статические члены класса.runtimeconfig.json
+D:\Public\MyProjects\17,01,2025\Статические члены класса\bin\Debug\net9.0\Статические члены класса.dll
+D:\Public\MyProjects\17,01,2025\Статические члены класса\bin\Debug\net9.0\Статические члены класса.pdb
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.AssemblyInfoInputs.cache
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.AssemblyInfo.cs
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.sourcelink.json
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.dll
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\refint\Статические члены класса.dll
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.pdb
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\Статические члены класса.genruntimeconfig.cache
+D:\Public\MyProjects\17,01,2025\Статические члены класса\obj\Debug\net9.0\ref\Статические члены класса.dll

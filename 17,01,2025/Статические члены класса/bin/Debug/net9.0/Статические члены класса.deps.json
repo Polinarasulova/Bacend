@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Статические члены класса/1.0.0": {
+        "runtime": {
+          "Статические члены класса.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Статические члены класса/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
