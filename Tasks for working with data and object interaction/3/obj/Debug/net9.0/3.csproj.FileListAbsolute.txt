@@ -1,0 +1,15 @@
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.AssemblyInfoInputs.cache
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.AssemblyInfo.cs
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.sourcelink.json
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\bin\Debug\net9.0\3.exe
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\bin\Debug\net9.0\3.deps.json
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\bin\Debug\net9.0\3.runtimeconfig.json
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\bin\Debug\net9.0\3.dll
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\bin\Debug\net9.0\3.pdb
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.dll
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\refint\3.dll
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.pdb
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\3.genruntimeconfig.cache
+D:\Public\MyProjects\Tasks for working with data and object interaction\3\obj\Debug\net9.0\ref\3.dll

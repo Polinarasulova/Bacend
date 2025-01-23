@@ -1,0 +1,15 @@
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.AssemblyInfoInputs.cache
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.AssemblyInfo.cs
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.csproj.CoreCompileInputs.cache
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.sourcelink.json
+D:\Public\MyProjects\21.01.2025\10\bin\Debug\net9.0\10.exe
+D:\Public\MyProjects\21.01.2025\10\bin\Debug\net9.0\10.deps.json
+D:\Public\MyProjects\21.01.2025\10\bin\Debug\net9.0\10.runtimeconfig.json
+D:\Public\MyProjects\21.01.2025\10\bin\Debug\net9.0\10.dll
+D:\Public\MyProjects\21.01.2025\10\bin\Debug\net9.0\10.pdb
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.dll
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\refint\10.dll
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.pdb
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\10.genruntimeconfig.cache
+D:\Public\MyProjects\21.01.2025\10\obj\Debug\net9.0\ref\10.dll

@@ -22,7 +22,7 @@ public class Car : Toy
 
     public override void Play()
     {
-        Console.WriteLine($"Врум! Я игрушечная машинка {Name}.");
+        Console.WriteLine($"Врум! Я  машина {Name}.");
     }
 }
 
@@ -32,7 +32,7 @@ public class Doll : Toy
 
     public override void Play()
     {
-        Console.WriteLine($"Привет, я твоя новая кукла {Name}!");
+        Console.WriteLine($"Привет, я барби {Name}!");
     }
 }
 
