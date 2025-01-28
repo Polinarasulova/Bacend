@@ -1,0 +1,14 @@
+D:\Public\28.01.2025\6\bin\Debug\net9.0\6.exe
+D:\Public\28.01.2025\6\bin\Debug\net9.0\6.deps.json
+D:\Public\28.01.2025\6\bin\Debug\net9.0\6.runtimeconfig.json
+D:\Public\28.01.2025\6\bin\Debug\net9.0\6.dll
+D:\Public\28.01.2025\6\bin\Debug\net9.0\6.pdb
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.AssemblyInfoInputs.cache
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.AssemblyInfo.cs
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.csproj.CoreCompileInputs.cache
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.dll
+D:\Public\28.01.2025\6\obj\Debug\net9.0\refint\6.dll
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.pdb
+D:\Public\28.01.2025\6\obj\Debug\net9.0\6.genruntimeconfig.cache
+D:\Public\28.01.2025\6\obj\Debug\net9.0\ref\6.dll
