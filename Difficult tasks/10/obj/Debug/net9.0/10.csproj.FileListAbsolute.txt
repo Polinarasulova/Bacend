@@ -1,0 +1,14 @@
+D:\Public\Difficult tasks\10\bin\Debug\net9.0\10.exe
+D:\Public\Difficult tasks\10\bin\Debug\net9.0\10.deps.json
+D:\Public\Difficult tasks\10\bin\Debug\net9.0\10.runtimeconfig.json
+D:\Public\Difficult tasks\10\bin\Debug\net9.0\10.dll
+D:\Public\Difficult tasks\10\bin\Debug\net9.0\10.pdb
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.AssemblyInfoInputs.cache
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.AssemblyInfo.cs
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.csproj.CoreCompileInputs.cache
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.dll
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\refint\10.dll
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.pdb
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\10.genruntimeconfig.cache
+D:\Public\Difficult tasks\10\obj\Debug\net9.0\ref\10.dll

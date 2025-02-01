@@ -1,0 +1,14 @@
+D:\Public\Task using arrays and conditions\8\bin\Debug\net9.0\8.exe
+D:\Public\Task using arrays and conditions\8\bin\Debug\net9.0\8.deps.json
+D:\Public\Task using arrays and conditions\8\bin\Debug\net9.0\8.runtimeconfig.json
+D:\Public\Task using arrays and conditions\8\bin\Debug\net9.0\8.dll
+D:\Public\Task using arrays and conditions\8\bin\Debug\net9.0\8.pdb
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.AssemblyInfoInputs.cache
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.AssemblyInfo.cs
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.csproj.CoreCompileInputs.cache
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.dll
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\refint\8.dll
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.pdb
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\8.genruntimeconfig.cache
+D:\Public\Task using arrays and conditions\8\obj\Debug\net9.0\ref\8.dll
