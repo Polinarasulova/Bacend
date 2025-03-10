@@ -1,0 +1,15 @@
+D:\Public\Bacend\практики-2025\11.02.2025\4\bin\Debug\net9.0\4.exe
+D:\Public\Bacend\практики-2025\11.02.2025\4\bin\Debug\net9.0\4.deps.json
+D:\Public\Bacend\практики-2025\11.02.2025\4\bin\Debug\net9.0\4.runtimeconfig.json
+D:\Public\Bacend\практики-2025\11.02.2025\4\bin\Debug\net9.0\4.dll
+D:\Public\Bacend\практики-2025\11.02.2025\4\bin\Debug\net9.0\4.pdb
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.AssemblyInfoInputs.cache
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.AssemblyInfo.cs
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.csproj.CoreCompileInputs.cache
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.sourcelink.json
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.dll
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\refint\4.dll
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.pdb
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\4.genruntimeconfig.cache
+D:\Public\Bacend\практики-2025\11.02.2025\4\obj\Debug\net9.0\ref\4.dll

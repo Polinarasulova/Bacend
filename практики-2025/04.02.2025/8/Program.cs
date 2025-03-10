@@ -12,14 +12,14 @@ abstract class Instrument
 
 class Guitar : Instrument, ITunable
 {
-    public override void Play() => Console.WriteLine("Гитара Динь-динь!");
+    public override void Play() => Console.WriteLine("Гитара ;erb!");
 
     public void Tune() => Console.WriteLine("Гитара настроена.");
 }
 
 class Piano : Instrument
 {
-    public override void Play() => Console.WriteLine("Фортепиано Бам-бам!");
+    public override void Play() => Console.WriteLine("Фортепиано f,,f!");
 }
 
 class Program

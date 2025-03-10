@@ -129,7 +129,7 @@ class Program
 {
     static void Main()
     {
-         Admin admin = new Admin("Админ", "admin@example.com");
+         Admin admin = new Admin("Азиз", "aziz@example.com");
         admin.DisplayInfo();
 
         admin.AddProduct("Ноутбук");

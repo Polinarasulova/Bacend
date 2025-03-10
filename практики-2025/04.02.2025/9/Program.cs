@@ -65,12 +65,12 @@ class Program
     static void Main()
     {
         var library = new Library();
-        library.AddBook(new FictionBook("Война и мир", "Лев Толстой"));
-        library.AddBook(new ScienceBook("любовное такси", "Полин"));
+        library.AddBook(new FictionBook("Самый богатый человек в Вавилоне", "Джордж Клейсон"));
+        library.AddBook(new ScienceBook("Иди туда где страшно", "Джим Лоулесс"));
 
         library.DisplayBooks();
 
-        var book = new FictionBook("Война и мир", "Лев Толстой");
+        var book = new FictionBook("Иди туда где страшно", "Джим Лоулесс");
         library.RentBook(book);
     }
 }
