@@ -1,0 +1,3 @@
+Polina Re;20;85;5
+Aziz Smit;22,90,0
+Alina Dio;24,75,2
