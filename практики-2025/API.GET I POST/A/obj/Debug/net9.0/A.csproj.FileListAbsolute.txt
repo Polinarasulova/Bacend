@@ -1,0 +1,15 @@
+D:\Public\Bacend\практики-2025\API.GET I POST\A\bin\Debug\net9.0\A.exe
+D:\Public\Bacend\практики-2025\API.GET I POST\A\bin\Debug\net9.0\A.deps.json
+D:\Public\Bacend\практики-2025\API.GET I POST\A\bin\Debug\net9.0\A.runtimeconfig.json
+D:\Public\Bacend\практики-2025\API.GET I POST\A\bin\Debug\net9.0\A.dll
+D:\Public\Bacend\практики-2025\API.GET I POST\A\bin\Debug\net9.0\A.pdb
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.AssemblyInfoInputs.cache
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.AssemblyInfo.cs
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.csproj.CoreCompileInputs.cache
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.sourcelink.json
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.dll
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\refint\A.dll
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.pdb
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\A.genruntimeconfig.cache
+D:\Public\Bacend\практики-2025\API.GET I POST\A\obj\Debug\net9.0\ref\A.dll
