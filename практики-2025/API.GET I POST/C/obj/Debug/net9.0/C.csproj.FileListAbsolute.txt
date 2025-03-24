@@ -1,0 +1,5 @@
+D:\Public\Bacend\практики-2025\API.GET I POST\C\obj\Debug\net9.0\C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\Bacend\практики-2025\API.GET I POST\C\obj\Debug\net9.0\C.AssemblyInfoInputs.cache
+D:\Public\Bacend\практики-2025\API.GET I POST\C\obj\Debug\net9.0\C.AssemblyInfo.cs
+D:\Public\Bacend\практики-2025\API.GET I POST\C\obj\Debug\net9.0\C.csproj.CoreCompileInputs.cache
+D:\Public\Bacend\практики-2025\API.GET I POST\C\obj\Debug\net9.0\C.sourcelink.json
